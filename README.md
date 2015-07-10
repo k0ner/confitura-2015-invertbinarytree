@@ -1,4 +1,7 @@
 # [Confitura 2015](http://tech.viacom.com/warsawsdc/confitura2015/)
+
+[![Build Status](https://travis-ci.org/k0ner/confitura-2015-invertbinarytree.svg?branch=master)](https://travis-ci.org/k0ner/confitura-2015-invertbinarytree)
+
 ## Invert a Binary Tree
 
 Invert a binary tree.
